@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.0.0",
+    "node-sass": "^9.0.0",
+    "react-clipboard.js": "^2.0.16",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-icons": "^4.11.0",
+    "react-lazy-load": "^4.0.1",
+    "react-modal": "^3.16.1",
+    "sass": "^1.67.0"
+  }
+}
